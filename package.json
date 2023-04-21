@@ -1,0 +1,16 @@
+{
+  "name": "fizz-buzz-coding-challenge",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Coding Challenge",
+  "main": "fizz-buzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
